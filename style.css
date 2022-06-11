@@ -140,6 +140,19 @@ section:last-child {
 	font-style: italic;
 	margin-bottom: 3px;
 }
+.profile{
+	list-style-type: none;
+	-moz-column-count:1;
+	-webkit-column-count:1;
+	column-count:1;
+	margin-bottom: 20px;
+	font-size: 1em;
+	color: #444;
+	
+}
+.profile ul li {
+	margin-bottom: 3px;
+}
 
 .keySkills {
 	list-style-type: none;
